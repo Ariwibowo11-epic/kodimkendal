@@ -8,6 +8,13 @@
     <language>id</language>
     <atom:link href="http://localhost:1313/aplikasi-spbe/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>BINTARA</title>
+      <link>http://localhost:1313/aplikasi-spbe/bintara/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aplikasi-spbe/bintara/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>LAPOR</title>
       <link>http://localhost:1313/aplikasi-spbe/lapor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -15,31 +22,24 @@
       <description></description>
     </item>
     <item>
-      <title>LPSE</title>
-      <link>http://localhost:1313/aplikasi-spbe/lpse/</link>
+      <title>PA PK TNI</title>
+      <link>http://localhost:1313/aplikasi-spbe/papktni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aplikasi-spbe/lpse/</guid>
+      <guid>http://localhost:1313/aplikasi-spbe/papktni/</guid>
       <description></description>
     </item>
     <item>
-      <title>SELARASIN</title>
-      <link>http://localhost:1313/aplikasi-spbe/selarasin/</link>
+      <title>TAMTAMA</title>
+      <link>http://localhost:1313/aplikasi-spbe/tamtama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aplikasi-spbe/selarasin/</guid>
+      <guid>http://localhost:1313/aplikasi-spbe/tamtama/</guid>
       <description></description>
     </item>
     <item>
-      <title>SIPD</title>
-      <link>http://localhost:1313/aplikasi-spbe/sipd/</link>
+      <title>Taruna Akademi TNI</title>
+      <link>http://localhost:1313/aplikasi-spbe/taruna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aplikasi-spbe/sipd/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SRIKANDI</title>
-      <link>http://localhost:1313/aplikasi-spbe/srikandi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aplikasi-spbe/srikandi/</guid>
+      <guid>http://localhost:1313/aplikasi-spbe/taruna/</guid>
       <description></description>
     </item>
   </channel>
