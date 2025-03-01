@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jumlah Permohonan Informasi on KODIM 0715/KENDAL</title>
+    <link>//localhost:1313/jumlah-permohonan-informasi/</link>
+    <description>Recent content in Jumlah Permohonan Informasi on KODIM 0715/KENDAL</description>
+    <generator>Hugo</generator>
+    <language>id</language>
+    <lastBuildDate>Thu, 05 Sep 2024 07:00:38 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/jumlah-permohonan-informasi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jumlah Permohonan Informasi</title>
+      <link>//localhost:1313/jumlah-permohonan-informasi/jumlah-permohonan-informasi/</link>
+      <pubDate>Thu, 05 Sep 2024 07:00:38 +0000</pubDate>
+      <guid>//localhost:1313/jumlah-permohonan-informasi/jumlah-permohonan-informasi/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

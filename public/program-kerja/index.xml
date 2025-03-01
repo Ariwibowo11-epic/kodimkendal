@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PROGRAM KERJA on KODIM 0715/KENDAL</title>
+    <link>//localhost:1313/program-kerja/</link>
+    <description>Recent content in PROGRAM KERJA on KODIM 0715/KENDAL</description>
+    <generator>Hugo</generator>
+    <language>id</language>
+    <lastBuildDate>Thu, 08 Aug 2024 06:19:19 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/program-kerja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Program Kerja Balitbang</title>
+      <link>//localhost:1313/program-kerja/program-kerja-balitbang/</link>
+      <pubDate>Thu, 08 Aug 2024 06:19:19 +0000</pubDate>
+      <guid>//localhost:1313/program-kerja/program-kerja-balitbang/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
