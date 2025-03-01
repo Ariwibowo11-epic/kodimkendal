@@ -898,17 +898,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
   <!-- Aplikasi Section -->
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 justify-center items-center max-w-full mx-auto px-4 md:px-8 lg:px-12">
   <div class="text-center">
-    <h2 class="text-xl font-bold py-3 text-customGreen">Aplikasi Balitbang</h2>
-    <hr class="border-t-4 border-customGreen w-2/3 mt-1 mx-auto">
-    <div class="aplikasi my-3 p-6 rounded-xl w-full mx-auto relative"> 
-      {{ $frontBundle6 := .Site.Params.frontBundle6 | default "Aplikasi-Balitbang" | lower }}
-      <div class="swiper swiper-aplikasi h-60 mx-auto">
-        <div class="swiper-wrapper pb-4">
-          {{ range (where .Site.RegularPages.ByDate.Reverse "Type" $frontBundle6) }}
-            <div class="swiper-slide h-auto">
-              {{- partial "blog-card-home-aplikasi.html" . -}}
-            </div>
-          {{ end }}
+
         </div>
         <div class="swiper-pagination-aplikasi absolute top-0 right-0"></div>
       </div>
@@ -931,24 +921,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
       </div>
     </div>
   </div>
-  <div class="text-center">
-    <h2 class="text-xl font-bold py-3 text-customGreen">Aplikasi Data Kalbar</h2>
-    <hr class="border-t-4 border-customGreen w-2/3 mt-1 mx-auto">
-    <div class="aplikasi my-3 p-6 rounded-xl w-full mx-auto relative">
-      {{ $frontBundle8 := .Site.Params.frontBundle8 | default "Aplikasi-Data-Kalbar" | lower }}
-      <div class="swiper swiper-aplikasi h-60 mx-auto">
-        <div class="swiper-wrapper pb-4">
-          {{ range (where .Site.RegularPages.ByDate.Reverse "Type" $frontBundle8) }}
-            <div class="swiper-slide h-auto">
-              {{- partial "blog-card-home-aplikasi.html" . -}}
-            </div>
-          {{ end }}
-        </div>
-        <div class="swiper-pagination-aplikasi absolute top-0 right-0"></div>
-      </div>
-    </div>
-  </div>
-</div>
+ 
 
 <style>
   .swiper-pagination-aplikasi {
