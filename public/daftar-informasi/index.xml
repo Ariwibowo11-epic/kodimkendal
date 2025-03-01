@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DAFTAR INFORMASI on KODIM 0715/KENDAL</title>
-    <link>http://localhost:1313/daftar-informasi/</link>
+    <link>https://kodim0715kendal.netlify.app//daftar-informasi/</link>
     <description>Recent content in DAFTAR INFORMASI on KODIM 0715/KENDAL</description>
     <generator>Hugo</generator>
     <language>id</language>
     <lastBuildDate>Tue, 10 Sep 2024 06:51:03 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/daftar-informasi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kodim0715kendal.netlify.app//daftar-informasi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Daftar Informasi</title>
-      <link>http://localhost:1313/daftar-informasi/daftar-informasi/</link>
+      <link>https://kodim0715kendal.netlify.app//daftar-informasi/daftar-informasi/</link>
       <pubDate>Tue, 10 Sep 2024 06:51:03 +0000</pubDate>
-      <guid>http://localhost:1313/daftar-informasi/daftar-informasi/</guid>
+      <guid>https://kodim0715kendal.netlify.app//daftar-informasi/daftar-informasi/</guid>
       <description></description>
     </item>
   </channel>

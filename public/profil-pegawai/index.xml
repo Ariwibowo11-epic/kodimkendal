@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PROFIL PEGAWAI on KODIM 0715/KENDAL</title>
-    <link>http://localhost:1313/profil-pegawai/</link>
+    <link>https://kodim0715kendal.netlify.app//profil-pegawai/</link>
     <description>Recent content in PROFIL PEGAWAI on KODIM 0715/KENDAL</description>
     <generator>Hugo</generator>
     <language>id</language>
     <lastBuildDate>Thu, 01 Aug 2024 01:30:42 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/profil-pegawai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kodim0715kendal.netlify.app//profil-pegawai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Profil Pegawai Balitbang</title>
-      <link>http://localhost:1313/profil-pegawai/profil-pegawai-balitbang/</link>
+      <link>https://kodim0715kendal.netlify.app//profil-pegawai/profil-pegawai-balitbang/</link>
       <pubDate>Thu, 01 Aug 2024 01:30:42 +0000</pubDate>
-      <guid>http://localhost:1313/profil-pegawai/profil-pegawai-balitbang/</guid>
+      <guid>https://kodim0715kendal.netlify.app//profil-pegawai/profil-pegawai-balitbang/</guid>
       <description></description>
     </item>
   </channel>

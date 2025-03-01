@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>STANDAR PELAYANAN on KODIM 0715/KENDAL</title>
-    <link>http://localhost:1313/standar-pelayanan/</link>
+    <link>https://kodim0715kendal.netlify.app//standar-pelayanan/</link>
     <description>Recent content in STANDAR PELAYANAN on KODIM 0715/KENDAL</description>
     <generator>Hugo</generator>
     <language>id</language>
     <lastBuildDate>Thu, 01 Aug 2024 02:22:19 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/standar-pelayanan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kodim0715kendal.netlify.app//standar-pelayanan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Standar Pelayanan</title>
-      <link>http://localhost:1313/standar-pelayanan/standar-pelayanan/</link>
+      <link>https://kodim0715kendal.netlify.app//standar-pelayanan/standar-pelayanan/</link>
       <pubDate>Thu, 01 Aug 2024 02:22:19 +0000</pubDate>
-      <guid>http://localhost:1313/standar-pelayanan/standar-pelayanan/</guid>
+      <guid>https://kodim0715kendal.netlify.app//standar-pelayanan/standar-pelayanan/</guid>
       <description></description>
     </item>
   </channel>
