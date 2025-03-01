@@ -774,7 +774,7 @@ $("#webspeach").click(function(event) {
     var listdatagroup = cekclassactive(groups, 'webspeach');
     if (listdatagroup.getclass.classactiv == "active") {
         localStorage.setItem("permisvoice", "on");
-        speach("Selamat Datang Di Website Kodim 0715/Kendal");
+        speach("Selamat Datang Di Website Kodim 0715 Kendal");
     } else {
         localStorage.setItem("permisvoice", "off");
     }
@@ -785,7 +785,7 @@ $("#mobileapp").click(function(event) {
     var listdatagroup = cekclassactive(groups, 'mobileapp');
     if (listdatagroup.getclass.classactiv == "active") {
         localStorage.setItem("permismobile", "on");
-        speachmobile("Selamat Datang Di Website Kodim 0715/Kendal");
+        speachmobile("Selamat Datang Di Website Kodim 0715 Kendal");
     } else {
         localStorage.setItem("permismobile", "off");
     }

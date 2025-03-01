@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aplikasi Balitbang on KODIM 0715/KENDAL</title>
-    <link>https://kodim0715kendal.netlify.app//aplikasi-balitbang/</link>
+    <link>http://localhost:1313/aplikasi-balitbang/</link>
     <description>Recent content in Aplikasi Balitbang on KODIM 0715/KENDAL</description>
     <generator>Hugo</generator>
     <language>id</language>
-    <atom:link href="https://kodim0715kendal.netlify.app//aplikasi-balitbang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/aplikasi-balitbang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DATABASE KELITBANGAN</title>
-      <link>https://kodim0715kendal.netlify.app//aplikasi-balitbang/database-kelitbangan/</link>
+      <link>http://localhost:1313/aplikasi-balitbang/database-kelitbangan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kodim0715kendal.netlify.app//aplikasi-balitbang/database-kelitbangan/</guid>
+      <guid>http://localhost:1313/aplikasi-balitbang/database-kelitbangan/</guid>
       <description></description>
     </item>
     <item>
       <title>JURNAL BORNEO AKCAYA</title>
-      <link>https://kodim0715kendal.netlify.app//aplikasi-balitbang/jurnal-borneo-akcaya/</link>
+      <link>http://localhost:1313/aplikasi-balitbang/jurnal-borneo-akcaya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kodim0715kendal.netlify.app//aplikasi-balitbang/jurnal-borneo-akcaya/</guid>
+      <guid>http://localhost:1313/aplikasi-balitbang/jurnal-borneo-akcaya/</guid>
       <description></description>
     </item>
     <item>
       <title>KHATULISTIWA ONE MAP</title>
-      <link>https://kodim0715kendal.netlify.app//aplikasi-balitbang/khatulistiwa-one-map/</link>
+      <link>http://localhost:1313/aplikasi-balitbang/khatulistiwa-one-map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kodim0715kendal.netlify.app//aplikasi-balitbang/khatulistiwa-one-map/</guid>
+      <guid>http://localhost:1313/aplikasi-balitbang/khatulistiwa-one-map/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Litbangjirap on KODIM 0715/KENDAL</title>
-    <link>https://kodim0715kendal.netlify.app//litbangjirap/</link>
+    <link>http://localhost:1313/litbangjirap/</link>
     <description>Recent content in Litbangjirap on KODIM 0715/KENDAL</description>
     <generator>Hugo</generator>
     <language>id</language>
     <lastBuildDate>Thu, 01 Aug 2024 04:25:39 +0000</lastBuildDate>
-    <atom:link href="https://kodim0715kendal.netlify.app//litbangjirap/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/litbangjirap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Litbangjirap</title>
-      <link>https://kodim0715kendal.netlify.app//litbangjirap/litbangjirap/</link>
+      <link>http://localhost:1313/litbangjirap/litbangjirap/</link>
       <pubDate>Thu, 01 Aug 2024 04:25:39 +0000</pubDate>
-      <guid>https://kodim0715kendal.netlify.app//litbangjirap/litbangjirap/</guid>
+      <guid>http://localhost:1313/litbangjirap/litbangjirap/</guid>
       <description></description>
     </item>
   </channel>

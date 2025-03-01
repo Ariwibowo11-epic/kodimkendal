@@ -1,6 +1,6 @@
 ---
 author: Pendim0715
-title: "SRIKANDI"
-thumbnail: /Aplikasi-SPBE/thumbnails/srikandi.png
-eurl: https://www.srikandi.arsip.go.id/
+title: "Taruna Akademi TNI"
+thumbnail: /Aplikasi-SPBE/thumbnails/taruna.png
+eurl: https://rekrutmen-tni.mil.id/informasi/persyaratan?s=taruna
 ---

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SAQ on KODIM 0715/KENDAL</title>
-    <link>https://kodim0715kendal.netlify.app//saq/</link>
+    <link>http://localhost:1313/saq/</link>
     <description>Recent content in SAQ on KODIM 0715/KENDAL</description>
     <generator>Hugo</generator>
     <language>id</language>
     <lastBuildDate>Thu, 01 Aug 2024 04:48:56 +0000</lastBuildDate>
-    <atom:link href="https://kodim0715kendal.netlify.app//saq/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/saq/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FREQUENTLY ASK QUESTION (FAQ)</title>
-      <link>https://kodim0715kendal.netlify.app//saq/frequently-ask-question-faq/</link>
+      <link>http://localhost:1313/saq/frequently-ask-question-faq/</link>
       <pubDate>Thu, 01 Aug 2024 04:48:56 +0000</pubDate>
-      <guid>https://kodim0715kendal.netlify.app//saq/frequently-ask-question-faq/</guid>
+      <guid>http://localhost:1313/saq/frequently-ask-question-faq/</guid>
       <description>&lt;div style=&#34;display: flex; flex-wrap: wrap; gap: 20px;&#34;&gt;&#xA;  &lt;div style=&#34;flex: 1 1 calc(50% - 20px); margin-bottom: 20px; padding: 20px; border: 1px solid #2f855a; border-radius: 10px; display: flex; justify-content: center; align-items: center;&#34; class=&#34;bg-gray-100 dark:bg-gray-800&#34;&gt;&#xA;    &lt;div&gt;&#xA;      &lt;div class=&#34;text-center text-customGreen dark:text-customGreenDark font-bold text-3xl&#34;&gt;Apa Itu Inovasi Daerah?&lt;/div&gt;&#xA;      &lt;p style=&#34;font-family: &#39;Poppins&#39;, sans-serif; font-size: 16px; text-align: justify; line-height: 1.5;&#34; class=&#34;text-center text-gray-600 dark:text-gray-300&#34;&gt;Inovasi Daerah adalah semua bentuk pembaharuan dalam penyelenggaraan Pemerintahan Daerah.&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div style=&#34;flex: 1 1 calc(50% - 20px); margin-bottom: 20px; padding: 20px; border: 1px solid #2f855a; border-radius: 10px; display: flex; justify-content: center; align-items: center;&#34; class=&#34;bg-gray-100 dark:bg-gray-800&#34;&gt;&#xA;    &lt;div&gt;&#xA;      &lt;div class=&#34;text-center text-customGreen dark:text-customGreenDark font-bold text-3xl&#34;&gt;Bagaimana mendapatkan Jurnal Litbang Kalbar Online (e-Jurnal)?&lt;/div&gt;&#xA;      &lt;p style=&#34;font-family: &#39;Poppins&#39;, sans-serif; font-size: 16px; text-align: justify; line-height: 1.5;&#34; class=&#34;text-center text-gray-600 dark:text-gray-300&#34;&gt;Penerbitan Jurnal Kelitbangan sebagai wadah pemikiran dan penggerak kegiatan Kelitbangan dan Inovasi di Lingkungan Pemerintah Provinsi Kalimantan Barat yang dapat diakses melalui link &lt;a style=&#34;color: #ab8b64; text-decoration: none;&#34; href=&#34;https://web.archive.org/web/20230324093633/http://jurnal-litbang.kalbarprov.go.id/indekx.php/litbang&#34;&gt;http://jurnal-litbang.kalbarprov.go.id/index.php/litbang&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
