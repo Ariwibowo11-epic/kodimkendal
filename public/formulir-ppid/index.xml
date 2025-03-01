@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Formulir PPID on KODIM 0715/KENDAL</title>
-    <link>http://https://kodim0715kendal.netlify.app//formulir-ppid/</link>
+    <link>http://localhost:1313/formulir-ppid/</link>
     <description>Recent content in Formulir PPID on KODIM 0715/KENDAL</description>
     <generator>Hugo</generator>
     <language>id</language>
     <lastBuildDate>Tue, 06 Aug 2024 07:48:58 +0000</lastBuildDate>
-    <atom:link href="http://https://kodim0715kendal.netlify.app//formulir-ppid/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/formulir-ppid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Formulir PPID</title>
-      <link>http://https://kodim0715kendal.netlify.app//formulir-ppid/formulir-ppid/</link>
+      <link>http://localhost:1313/formulir-ppid/formulir-ppid/</link>
       <pubDate>Tue, 06 Aug 2024 07:48:58 +0000</pubDate>
-      <guid>http://https://kodim0715kendal.netlify.app//formulir-ppid/formulir-ppid/</guid>
+      <guid>http://localhost:1313/formulir-ppid/formulir-ppid/</guid>
       <description></description>
     </item>
   </channel>

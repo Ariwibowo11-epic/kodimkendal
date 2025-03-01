@@ -35,11 +35,11 @@ frontBundle6 = "Aplikasi-Balitbang"
 frontBundle7 = "Aplikasi-SPBE"
 frontBundle8 = "Aplikasi-Data-Kalbar"
 hideMeta = false
-hideOtherLanguages = false
+hideOtherLanguages = true
 toc = true
-hidePageThumbnail = false
-introTitle = "Dinas Komunikasi dan Informatika"
-introSubtitle = "Website resmi Dinas Komunikasi dan Informatika provinsi Kalimantan Barat"
+hidePageThumbnail = true
+introTitle = "Kodim 0715/Kendal"
+introSubtitle = "Website resmi Komando Distrik Militer 0715/Kendal"
 [params.comments]
 system = "giscus"
 repo = ""

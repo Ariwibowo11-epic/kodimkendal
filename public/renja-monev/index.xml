@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RENJA MONEV on KODIM 0715/KENDAL</title>
-    <link>http://https://kodim0715kendal.netlify.app//renja-monev/</link>
+    <link>http://localhost:1313/renja-monev/</link>
     <description>Recent content in RENJA MONEV on KODIM 0715/KENDAL</description>
     <generator>Hugo</generator>
     <language>id</language>
     <lastBuildDate>Tue, 06 Aug 2024 07:57:19 +0000</lastBuildDate>
-    <atom:link href="http://https://kodim0715kendal.netlify.app//renja-monev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/renja-monev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Renja Monev</title>
-      <link>http://https://kodim0715kendal.netlify.app//renja-monev/renja-monev/</link>
+      <link>http://localhost:1313/renja-monev/renja-monev/</link>
       <pubDate>Tue, 06 Aug 2024 07:57:19 +0000</pubDate>
-      <guid>http://https://kodim0715kendal.netlify.app//renja-monev/renja-monev/</guid>
+      <guid>http://localhost:1313/renja-monev/renja-monev/</guid>
       <description></description>
     </item>
   </channel>
