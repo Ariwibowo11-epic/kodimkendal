@@ -1717,13 +1717,6 @@
       <description></description>
     </item>
     <item>
-      <title>BINTARA</title>
-      <link>http://localhost:1313/aplikasi-spbe/bintara/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aplikasi-spbe/bintara/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>BRIN</title>
       <link>http://localhost:1313/link-terkait/brin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1815,17 +1808,17 @@
       <description></description>
     </item>
     <item>
+      <title>LPSE</title>
+      <link>http://localhost:1313/aplikasi-spbe/lpse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aplikasi-spbe/lpse/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Mil CISRT TNI</title>
       <link>http://localhost:1313/link-terkait/tnicisrt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/link-terkait/tnicisrt/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>PA PK TNI</title>
-      <link>http://localhost:1313/aplikasi-spbe/papktni/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aplikasi-spbe/papktni/</guid>
       <description></description>
     </item>
     <item>
@@ -1836,6 +1829,13 @@
       <description></description>
     </item>
     <item>
+      <title>SELARASIN</title>
+      <link>http://localhost:1313/aplikasi-spbe/selarasin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aplikasi-spbe/selarasin/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>SIKEDIP</title>
       <link>http://localhost:1313/aplikasi-data-kalbar/sikedip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1843,14 +1843,14 @@
       <description></description>
     </item>
     <item>
-      <title>TAMTAMA</title>
-      <link>http://localhost:1313/aplikasi-spbe/tamtama/</link>
+      <title>SIPD</title>
+      <link>http://localhost:1313/aplikasi-spbe/sipd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aplikasi-spbe/tamtama/</guid>
+      <guid>http://localhost:1313/aplikasi-spbe/sipd/</guid>
       <description></description>
     </item>
     <item>
-      <title>Taruna Akademi TNI</title>
+      <title>TARUNA</title>
       <link>http://localhost:1313/aplikasi-spbe/taruna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/aplikasi-spbe/taruna/</guid>
