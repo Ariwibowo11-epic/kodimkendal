@@ -59,7 +59,7 @@ cd themes/blist/exampleSite/
 hugo serve --themesDir ../..
 ```
 
-Then visit `http://localhost:1313/` in your browser to view the example site.
+Then visit `http://https://kodim0715kendal.netlify.app//` in your browser to view the example site.
 
 ## Configuring theme to a hugo website
 
